@@ -26,7 +26,7 @@ School library OOP implementation. Using Ruby language.
 
 - Languages: Ruby
 - Frameworks: N/A
-- Technologies Used: GIT, GITHUB, LINTERS
+- Technologies Used: GIT, GITHUB, RUBOCOP
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,7 +59,7 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Nezerwa Eligrand**
 
