@@ -1,13 +1,7 @@
-class Book
-  attr_accessor :title, :author, :rentals
+require_relative 'base_decorator'
 
-  def initialize(title, author)
-    @title = title
-    @author = author
-    @rentals = []
-  end
-
-  def add_rental(date, person)
-    Rental.new(date, person, self)
+class CapitalizeDecorator < Decorator
+  def correct_name
+    @nameable.correct_name.capitalize
   end
 end
