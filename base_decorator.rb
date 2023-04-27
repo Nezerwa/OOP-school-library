@@ -1,12 +1,11 @@
-require('./nameable')
-
-class BaseDecorator < Nameable
-  def initialize(nameable_obj)
+require_relative 'nameable'
+class Decorator < Nameable
+  def initialize(nameable)
     super()
-    @nameable_obj = nameable_obj
+    @nameable = nameable
   end
 
   def correct_name
-    @nameable_obj.correct_name
+    @nameable.correct_name
   end
 end
