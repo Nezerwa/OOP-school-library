@@ -13,6 +13,7 @@ class App
     @list = List.new(@books, @people, @rentals)
     @create = Create.new(@books, @people, @rentals)
   end
+
   def options
     loop do
       display_list
@@ -36,5 +37,3 @@ class App
     display_list
   end
 end
-
-  
