@@ -59,13 +59,19 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Nezerwa Eligrand**
 
 - GitHub: [@Nezerwa](https://github.com/nezerwa)
 - Twitter: [@eligrand1](https://twitter.com/eligrand1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/eligrand-nezerwa)
+
+👤 **Lugard Agu**
+
+- GitHub: [@lugard1](https://github.com/lugard1)
+- Twitter: [@Dsn3kings](https://twitter.com/Dsn3kings)
+- LinkedIn: [Lugard Agu](https://www.linkedin.com/in/lugardagu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
