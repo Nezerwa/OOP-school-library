@@ -26,4 +26,14 @@ class Create
     puts 'Book created successfully.'
   end
 
- 
+  def create_rental
+    puts 'Select a book from the following list by number'
+    selected_book = rentals_book(retrieve_books)
+    puts 'Select a person from the following list by number (Not ID): '
+    selected_person = rentals_person(retrieve_people)
+    print 'Date: '
+    provided_date = rentals_date
+    save_rental(Rental.new(provided_date, subscribe_person(selected_person), subscribe_book(selected_book)))
+    puts 'Rental created successfully.'
+  end
+end
