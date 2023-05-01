@@ -67,6 +67,12 @@ In order to run this project you need:
 - Twitter: [@eligrand1](https://twitter.com/eligrand1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/eligrand-nezerwa)
 
+👤 **Lugard Agu**
+
+- GitHub: [@lugard1](https://github.com/lugard1)
+- Twitter: [@Dsn3kings](https://twitter.com/Dsn3kings)
+- LinkedIn: [Lugard Agu](https://www.linkedin.com/in/lugardagu)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
