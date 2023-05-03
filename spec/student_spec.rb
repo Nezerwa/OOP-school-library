@@ -27,7 +27,7 @@ describe Student do
 
   context 'call play_hooky method' do
     it 'return special-character string' do
-      expect(@student.play_hooky).to eql("¯\(ツ)/¯")
+      expect(@student.play_hooky).to eql('¯(ツ)/¯')
     end
   end
 end
