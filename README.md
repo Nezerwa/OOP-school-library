@@ -18,7 +18,7 @@
 
 # 📖 OOP School Library <a name="about-project"></a>
 
-School library OOP implementation. Using Ruby language.
+OOP-SCHOOL-LIBRARY is a project that aims to develop a tool for the librarian of OOP University to manage the library's collection of books, record borrowing activities, and add new students or teachers in a well-organized and visually appealing way.
 
 ## 🛠 Built With <a name="built-with"></a>
 
